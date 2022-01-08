@@ -1,0 +1,23 @@
+modLoader="javafml" #mandatory
+
+loaderVersion="[38,)"
+
+license="All rights reserved"
+
+[[mods]]
+modId="downunder"
+
+version="${file.jarVersion}"
+
+displayName="TheDownUnder Mod" #mandatory
+
+logoFile="examplemod.png" #optional
+
+credits="Thanks to aussies" #optional
+
+authors="PurplePineapple" #optional
+
+description='''
+
+'''
+
